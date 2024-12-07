@@ -1,13 +1,8 @@
 			// Aplicação para associação de moradores de Mauá
 // Trabalho realizado sozinho
-// Github:
-// Objetivo:
+// Objetivo: auxiliar a gestão de membros da associação
 // Desenvolvido para sistemas Linux
 // Consultar README para mais informações
-
-// Funcionalidades
-// 2. Consultas online para informações específicas 
-// 3. API para monitorar atividades
 
 #include <stdio.h>
 #include <stdlib.h>
