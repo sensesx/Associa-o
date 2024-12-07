@@ -1,4 +1,4 @@
-			// Aplicação para associação de moradores de Mauá
+// Aplicação para associação de moradores do parque são vicente
 // Trabalho realizado sozinho
 // Objetivo: auxiliar a gestão de membros da associação
 // Desenvolvido para sistemas Linux
